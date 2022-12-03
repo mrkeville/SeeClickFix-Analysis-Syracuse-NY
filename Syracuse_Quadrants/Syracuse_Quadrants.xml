@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Syracuse Quadrants</title>
+                <onlink>https://services.arcgis.com/uDTUpUPbk8X8mXwl/arcgis/rest/services/Syracuse_Quadrants/FeatureServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract/>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>boundaries</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/</useconst>
+    </idinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>Syracuse Quadrants</enttypl>
+                <enttypds>DPW</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>FID</attrlabl>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>FID_1</attrlabl>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Area</attrlabl>
+                <attrdef>Area of the Region</attrdef>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Perimeter</attrlabl>
+                <attrdef>Perimeter of the region</attrdef>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>QUADRANTS_</attrlabl>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>QUADRANTS1</attrlabl>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Name</attrlabl>
+                <attrdef>Name and Direction of the region</attrdef>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Quad</attrlabl>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Shape__Area</attrlabl>
+                <attrdef>Shape of the Area</attrdef>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Shape__Length</attrlabl>
+                <attrdef>Length of the shape</attrdef>
+                <attrdefs>DPW</attrdefs>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20221109</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
