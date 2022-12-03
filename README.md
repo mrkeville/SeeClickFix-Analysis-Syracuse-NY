@@ -5,14 +5,14 @@
 
 ### SeeClickFix Dataset
 
- - (https://data.syr.gov/datasets/a6600662aa164d968a695b983aa2a7ea_0/explore?location=43.034364%2C-76.140132%2C13.29&showTable=true)
+ - https://data.syr.gov/datasets/a6600662aa164d968a695b983aa2a7ea_0/explore?location=43.034364%2C-76.140132%2C13.29&showTable=true
 
-- (https://data.syr.gov/datasets/a6600662aa164d968a695b983aa2a7ea_0/about)
+- https://data.syr.gov/datasets/a6600662aa164d968a695b983aa2a7ea_0/about
 
 ### Syracuse Quadrants Dataset
-- (https://data-syr.opendata.arcgis.com/datasets/0039ea50ceb649f099b17c52e1ff6fa8_0/explore?location=43.035384%2C-76.139400%2C12.79)
+- https://data-syr.opendata.arcgis.com/datasets/0039ea50ceb649f099b17c52e1ff6fa8_0/explore?location=43.035384%2C-76.139400%2C12.79
 
-- (https://data-syr.opendata.arcgis.com/datasets/0039ea50ceb649f099b17c52e1ff6fa8_0/about)
+- https://data-syr.opendata.arcgis.com/datasets/0039ea50ceb649f099b17c52e1ff6fa8_0/about
 
 ## About This Analysis
 
