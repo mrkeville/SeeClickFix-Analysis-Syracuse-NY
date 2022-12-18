@@ -48,5 +48,15 @@ The R code file uses the following packages:
 - lubridate
 - ggalluvial
 
+## Limitations of Analysis and Suggestions for Future Analysis
+
+Limitations on joining of shapefiles with dataset precluded development of a map to visualize the distribution of requests and average time to respond by neighborhood. 
+
+Future analysis could include:
+- Developing a neighborhood-level analysis using available address data in conjunction with Census TIGERLINE shapefiles/available neighborhood shapefiles from Syracuse Open Data Portal
+- Examining time to close by other statistical measures
+- Examining other timing measures
+- Examining distributions and timing by agency and request type to remove influence of major outliers
+
 ## About The Author
 Mary Rachel Keville is a Research & Evaluation Analyst at Syracuse University and a graduate of the Maxwell School at Syracuse University.
